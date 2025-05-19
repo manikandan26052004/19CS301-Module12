@@ -16,6 +16,8 @@ To write a Python program to insert 3 elements into a stack and display the inde
 ## Program
 
 ```python
+NAME: MANIKANDAN R
+REG NO: 212222220022
 stack = []
 
 # Push elements into the stack
@@ -24,7 +26,7 @@ stack.append('b')
 stack.append('c')
 
 # Display the initial stack
-print('Initial stack:', stack)
+print('Initial stack:' +str(stack))
 
 # Print index and element
 for i in range(len(stack)):
@@ -33,6 +35,8 @@ for i in range(len(stack)):
 
 ## Output
 
+![12b](https://github.com/user-attachments/assets/8c425df0-d37c-4ca8-a696-84316f04cddb)
 
 ## Result
+The given program is successfully executed.
 
